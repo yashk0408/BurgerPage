@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BurgerPage/static/css/main.ae7e828f.css",
+    "main.js": "/BurgerPage/static/js/main.1c928d7e.js",
+    "static/js/787.99d9b596.chunk.js": "/BurgerPage/static/js/787.99d9b596.chunk.js",
+    "static/media/imgmeal.png": "/BurgerPage/static/media/imgmeal.1808ddb3b326c8c8ac06.png",
+    "static/media/ham1.jpg": "/BurgerPage/static/media/ham1.691349ba8b6466668153.jpg",
+    "static/media/ham4.jpg": "/BurgerPage/static/media/ham4.a540303d9c746892f5c5.jpg",
+    "static/media/ham2.jpg": "/BurgerPage/static/media/ham2.3b05b361dae1375386fa.jpg",
+    "static/media/hamburger.png": "/BurgerPage/static/media/hamburger.2d0e2abe3c4c578e1c5c.png",
+    "index.html": "/BurgerPage/index.html",
+    "main.ae7e828f.css.map": "/BurgerPage/static/css/main.ae7e828f.css.map",
+    "main.1c928d7e.js.map": "/BurgerPage/static/js/main.1c928d7e.js.map",
+    "787.99d9b596.chunk.js.map": "/BurgerPage/static/js/787.99d9b596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7e828f.css",
+    "static/js/main.1c928d7e.js"
+  ]
+}

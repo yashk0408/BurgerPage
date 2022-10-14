@@ -1,6 +1,6 @@
 
-USE THIS LINK TO PREVIEW👇⬇️:
-https://github.com/yashk0408/BurgerPage
+USE THIS LINK TO PREVIEW:
+https://yashk0408.github.io/BurgerPage/
 
 
 
